@@ -8,9 +8,7 @@ This C++ program is a simple Student Database Management System that allows you 
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Compilation](#compilation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
@@ -34,4 +32,4 @@ To run this program, you need:
 Compile the program using a C++ compiler. For example, you can use g++:
 
 ```bash
-g++ student_database.cpp -o student_database
+g++ record.cpp -o Dsn1605
