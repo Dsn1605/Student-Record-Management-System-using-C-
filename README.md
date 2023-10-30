@@ -18,6 +18,9 @@ This C++ program is a simple Student Database Management System that allows you 
 - Delete a student by their roll number.
 - Update student details, including first name, last name, roll number, CGPA, and enrolled courses.
 
+  <img width="1512" alt="Screenshot 2023-10-30 at 1 35 20 PM" src="https://github.com/Dsn1605/Student-Record-Management-System-using-Cpp-/assets/114471795/0649f759-a59f-4976-a2e4-81f422e4bc02">
+
+
 ## Getting Started
 
 ### Prerequisites
